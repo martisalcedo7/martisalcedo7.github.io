@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Marti Salcedo Bosch
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: Robotics Engineer
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🦾
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Neatleaf
+ url: https://www.neatleaf.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -45,9 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
